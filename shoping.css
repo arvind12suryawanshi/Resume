@@ -15,7 +15,7 @@
 
   
   .align {
-      background-image: url('images/asdf.jpg');
+      background-image: url('asdf.jpg');
       background-position: center;
     display: grid;
     place-items: center;
